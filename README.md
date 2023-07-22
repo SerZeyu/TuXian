@@ -1,3 +1,3 @@
 # SerZeyu.github.io
-[小兔鲜网站](index.html)
+<a href="index.html" title="超链接title">超链接显示名</a>
 
